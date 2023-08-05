@@ -290,10 +290,6 @@ button {
     .width {
         width: 368px;
     }
-   
-    .width1 {
-        width: 240px;
-    }
 
     .width2 {
         max-width: 760px;
@@ -346,8 +342,8 @@ button {
 
     .bgr {
         background: rgba(33, 22, 22, 0.70);
-        width: 360px;
-        height: 263px;
+        width: 240px;
+        height: 176px;
         position: absolute;
         opacity: 0.7;
     }
